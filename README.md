@@ -1,21 +1,3 @@
-<table width="100%">
-  <tr>
-    <td valign="middle" width="60" align="center">
-      <img src="https://i.imgur.com/llF5iyg.gif" width="45"/>
-    </td>
-    <td valign="middle" align="right" style="padding: 0;">
-      <ul align="right" style="list-style-position: inside; padding-right: 10px; margin: 0;">
-        <li><strong>Building Essentialis Cloud</strong> — zero-knowledge, client-side encrypted decentralized document vault</li>
-        <li>Experience with encryption pipelines, IPFS storage & smart contract integrations</li>
-        <li>Focused on security engineering, red teaming & applied cryptography</li>
-        <li>Shipping minimal, fast, practical systems</li>
-        <li>Co-creator of <strong>LandChain</strong> — blockchain land-record system with custom encryption</li>
-      </ul>
-
-  </td>
-
-  </tr>
-</table>
 
 ---
 
@@ -61,12 +43,3 @@
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</div>
-
----
-
-### ⭐ If you like my work, feel free to star my projects.
