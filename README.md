@@ -4,15 +4,40 @@
 <br/>
 
 <div align="right">
-  
-- Currently building **Essentialis Cloud** — a zero-knowledge, client-side encrypted decentralized document vault  
-- Experience with custom encryption pipelines, IPFS-based storage & smart contract integrations  
-- Passionate about security engineering, red teaming & applied cryptography  
-- Turning ideas into minimal, fast, real-world systems  
-- Co-creator of **LandChain** — blockchain land-record management
+
+• Building **Essentialis Cloud** — zero-knowledge, client-side encrypted decentralized document vault  
+• Worked on encryption pipelines, IPFS storage & smart contract integrations  
+• Interested in security engineering, red teaming & applied cryptography  
+• Building fast, minimal, real-world systems  
+• Co-creator of **LandChain** — blockchain land-record system with custom encryption  
 
 </div>
 
+<br/>
+
+<div align="center">
+  
+  <!-- Minimal rotating dots figure -->
+  <img src="https://raw.githubusercontent.com/nitinranganath/rotating-dot-animation/main/dot.gif" width="110"/>
+
+</div><div align="right">
+
+• Building **Essentialis Cloud** — zero-knowledge, client-side encrypted decentralized document vault  
+• Worked on encryption pipelines, IPFS storage & smart contract integrations  
+• Interested in security engineering, red teaming & applied cryptography  
+• Building fast, minimal, real-world systems  
+• Co-creator of **LandChain** — blockchain land-record system with custom encryption  
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Minimal rotating dots figure -->
+  <img src="https://raw.githubusercontent.com/nitinranganath/rotating-dot-animation/main/dot.gif" width="110"/>
+
+</div>
 ---
 
 ## 🌐 Languages:
