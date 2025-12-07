@@ -1,39 +1,22 @@
-<!-- Header: rotating minimal figure + right-aligned intro -->
-<table width="100%" style="border-collapse:collapse;">
+<table width="100%">
   <tr>
-    <td width="140" valign="middle" align="left" style="padding:0 20px 0 0;">
-      <!-- Inline SVG rotating dots animation -->
-      <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-        <g transform="translate(60,60)">
-          <g>
-            <circle cx="30" cy="0" r="6" fill="#8b5cf6">
-              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0s"/>
-              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0s"/>
-            </circle>
-            <circle cx="-15" cy="25.98" r="6" fill="#06b6d4">
-              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0.35s"/>
-              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0.35s"/>
-            </circle>
-            <circle cx="-15" cy="-25.98" r="6" fill="#22c55e">
-              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0.7s"/>
-              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0.7s"/>
-            </circle>
-          </g>
-          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
-        </g>
-      </svg>
+    <!-- Rotating loader on the left -->
+    <td valign="middle" width="60">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-smil/spinner-90-ring-with-bg.svg" width="55"/>
+      </div>
     </td>
-
-    <td valign="middle" align="right" style="padding:0;">
-      • Building <strong>Essentialis Cloud</strong> — zero-knowledge, client-side encrypted decentralized document vault<br/>
-      • Experience with encryption pipelines, IPFS storage & smart contract integrations<br/>
-      • Focused on security engineering, red teaming & applied cryptography<br/>
-      • Shipping minimal, fast, practical systems<br/>
-      • Co-creator of <strong>LandChain</strong> — blockchain land-record system with custom encryption
+    <td valign="middle" align="right">
+      <ul align="right" style="list-style-position: inside;">
+        <li>Building <strong>Essentialis Cloud</strong> — zero-knowledge, client-side encrypted decentralized document vault</li>
+        <li>Experience with encryption pipelines, IPFS storage & smart contract integrations</li>
+        <li>Focused on security engineering, red teaming & applied cryptography</li>
+        <li>Shipping minimal, fast, practical systems</li>
+        <li>Co-creator of <strong>LandChain</strong> — blockchain land-record system with custom encryption</li>
+      </ul>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Languages
