@@ -1,43 +1,40 @@
-<h2 align="center">Pavan Kumaar</h2>
-<h4 align="center">Self-taught Full-Stack & Web3 Developer • Builder of Essentialis Cloud</h4>
+<<!-- Minimal left-rotating-dots + right-aligned bullets -->
+<table width="100%" style="border-collapse:collapse;">
+  <tr>
+    <td width="140" valign="middle" align="left" style="padding:0 16px 0 0;">
+      <!-- Inline SVG rotating dots (works in README) -->
+      <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="loading">
+        <g transform="translate(60,60)">
+          <!-- three dots placed on a circle, animated via rotate on parent groups -->
+          <g>
+            <circle cx="30" cy="0" r="6" fill="#8b5cf6">
+              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0s"/>
+              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0s"/>
+            </circle>
+            <circle cx="-15" cy="25.98" r="6" fill="#06b6d4">
+              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0.35s"/>
+              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0.35s"/>
+            </circle>
+            <circle cx="-15" cy="-25.98" r="6" fill="#22c55e">
+              <animateTransform attributeName="transform" type="scale" values="1;0.45;1" dur="1.1s" repeatCount="indefinite" begin="0.7s"/>
+              <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" begin="0.7s"/>
+            </circle>
+          </g>
+          <!-- slow rotation of the group to give a subtle orbital feel -->
+          <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+        </g>
+      </svg>
+    </td>
 
-<br/>
-
-<div align="right">
-
-• Building **Essentialis Cloud** — zero-knowledge, client-side encrypted decentralized document vault  
-• Worked on encryption pipelines, IPFS storage & smart contract integrations  
-• Interested in security engineering, red teaming & applied cryptography  
-• Building fast, minimal, real-world systems  
-• Co-creator of **LandChain** — blockchain land-record system with custom encryption  
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Minimal rotating dots figure -->
-  <img src="https://raw.githubusercontent.com/nitinranganath/rotating-dot-animation/main/dot.gif" width="110"/>
-
-</div><div align="right">
-
-• Building **Essentialis Cloud** — zero-knowledge, client-side encrypted decentralized document vault  
-• Worked on encryption pipelines, IPFS storage & smart contract integrations  
-• Interested in security engineering, red teaming & applied cryptography  
-• Building fast, minimal, real-world systems  
-• Co-creator of **LandChain** — blockchain land-record system with custom encryption  
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Minimal rotating dots figure -->
-  <img src="https://raw.githubusercontent.com/nitinranganath/rotating-dot-animation/main/dot.gif" width="110"/>
-
-</div>
+    <td valign="middle" align="right" style="padding:0; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color:#c9d1d9;">
+      • Building <strong>Essentialis Cloud</strong> — zero-knowledge, client-side encrypted decentralized document vault<br/>
+      • Experience with custom encryption pipelines, IPFS storage & smart contract integrations<br/>
+      • Focused on security engineering, red teaming & applied cryptography<br/>
+      • Shipping minimal, fast, real-world systems<br/>
+      • Co-creator of <strong>LandChain</strong> — blockchain land-record management with custom encryption
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Languages:
