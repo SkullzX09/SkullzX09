@@ -3,13 +3,13 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
   
-- 🔐 Building **Essentialis Cloud** — a zero-knowledge, client-side encrypted decentralized document vault  
-- 🧱 Worked on custom encryption pipelines, IPFS storage & smart contracts  
-- 👨‍💻 Passionate about security engineering, red teaming & AI  
-- 🚀 From hobby projects to real-life systems  
-- 🌐 Co-creator of **LandChain** (blockchain land record system)
+- Currently building **Essentialis Cloud** — a zero-knowledge, client-side encrypted decentralized document vault  
+- Experience with custom encryption pipelines, IPFS-based storage & smart contract integrations  
+- Passionate about security engineering, red teaming & applied cryptography  
+- Turning ideas into minimal, fast, real-world systems  
+- Co-creator of **LandChain** — blockchain land-record management
 
 </div>
 
@@ -58,12 +58,3 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</div>
-
----
-
-### ⭐ If you like my work, feel free to star my projects!  
