@@ -1,20 +1,19 @@
 <table width="100%">
   <tr>
-    <!-- Working loader (GIF) -->
     <td valign="middle" width="60" align="center">
       <img src="https://i.imgur.com/llF5iyg.gif" width="45"/>
     </td>
-
-    <!-- Clean bullet list, right aligned -->
-    <td valign="middle" align="right">
-      <ul align="right" style="list-style-position: inside; padding-right: 10px;">
+    <td valign="middle" align="right" style="padding: 0;">
+      <ul align="right" style="list-style-position: inside; padding-right: 10px; margin: 0;">
         <li><strong>Building Essentialis Cloud</strong> — zero-knowledge, client-side encrypted decentralized document vault</li>
         <li>Experience with encryption pipelines, IPFS storage & smart contract integrations</li>
         <li>Focused on security engineering, red teaming & applied cryptography</li>
         <li>Shipping minimal, fast, practical systems</li>
         <li>Co-creator of <strong>LandChain</strong> — blockchain land-record system with custom encryption</li>
       </ul>
-    </td>
+
+  </td>
+
   </tr>
 </table>
 
